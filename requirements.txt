@@ -1,0 +1,4 @@
+fastai
+nbdev
+torch
+hvplot
